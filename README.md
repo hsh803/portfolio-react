@@ -31,7 +31,14 @@
 6. Deploy the react app to Github page
 `sudo npm run deploy`
 
-
 Reference : https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
 
+## Single page app for Github pages
+
+To deploy React singple page app to Github pages, add scripts followed.
+
+1. Under public folder, copy and add 404.html file from reference page.
+2. In index.html file, copy and add script snippet marked with the following comment " <!-- Start Single Page Apps for GitHub Pages -->" from index.html of the reference page.
+
+Reference: https://github.com/rafgraph/spa-github-pages
 
