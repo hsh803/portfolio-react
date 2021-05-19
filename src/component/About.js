@@ -28,7 +28,7 @@ function About () {
                 </ul>
 
         </div>
-        <Footer className="footer1" />
+        <Footer className="footer2" />
 </div>
     )
 }
