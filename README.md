@@ -1,6 +1,6 @@
 # Portfolio website - react
 
-[Link](hsh803.github.io/portfolio-react) to the portfolio page
+[Link](https://hsh803.github.io/portfolio-react) to the portfolio page
 
 ## How to deploy react app to Github
 
